@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LinkGrab</string>
+    <string name="hint_url">Paste a link</string>
+    <string name="paste">Paste</string>
+    <string name="mode_video">Video</string>
+    <string name="mode_song">Song (MP3)</string>
+    <string name="mode_apk">APK file</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_engine">Update downloader engine</string>
+    <string name="tagline">Videos and songs from YouTube, TikTok, Instagram, X and 1000+ sites. Direct .apk links too.</string>
+    <string name="saved_to">Files are saved to Download/LinkGrab</string>
+</resources>
